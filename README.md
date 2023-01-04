@@ -28,7 +28,7 @@ Variables:
 - `KAFKA_TOPIC` is a name of Kafka topic
 
 Files:
-- `app/keyfile.json` contains Google Cloud [service account key](https://cloud.google.com/iam/docs/creating-managing-service-account-keys) and must be stored securely!
+- `app/keyfile.json` contains Google Cloud [service account key](https://cloud.google.com/iam/docs/creating-managing-service-account-keys)
 - `app/kafka-ca.pem` contains Kafka CA certificate for verifying the broker's key
 - `app/producer-gws-audit.pem` contains Kafka client's public and private keys
 
