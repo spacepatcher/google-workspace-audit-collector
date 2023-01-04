@@ -1,4 +1,4 @@
-# Google Workspace Audit Collector
+## Google Workspace Audit Collector
 
 A simple application for collecting audit logs from your Google Workspace account and producing the events to Kafka topic. The app is designed to work continuously inside a container.
 
