@@ -6,7 +6,7 @@ Collection of events generated in a 60-second sliding time window from 6 to 5 mi
 
 ### Audit scope
 
-The app collects traces of all activity inside Google Workspace account using Google Workspace Admin Console through [Reports API](https://developers.google.com/admin-sdk/reports) provided by all the internal applications: `access_transparency`, `admin`, `calendar`, `chat`, `drive`, `gcp`, `gplus`, `groups`, `groups_enterprise`, `jamboard`, `login`, `meet`, `mobile`, `rules`, `saml`, `token`, `user_accounts`, `context_aware_access`, `chrome`, `data_studio`, `keep`.
+The app collects traces of all activity inside Google Workspace account using Google Workspace Admin Console through [Reports API](https://developers.google.com/admin-sdk/reports/reference/rest) provided by all the internal applications: `access_transparency`, `admin`, `calendar`, `chat`, `drive`, `gcp`, `gplus`, `groups`, `groups_enterprise`, `jamboard`, `login`, `meet`, `mobile`, `rules`, `saml`, `token`, `user_accounts`, `context_aware_access`, `chrome`, `data_studio`, `keep`.
 
 ### Usage
 
